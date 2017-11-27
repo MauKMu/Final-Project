@@ -302,7 +302,7 @@ After class, push your presentation to your GitHub repo.
 
 Same format as Milestone 2.
 
-## **Thursday 12/11** - Final Presentation
+## **Monday 12/11** - Final Presentation
 
 5-minute final presentation.
 
